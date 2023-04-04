@@ -17,7 +17,7 @@ prueba prueab
 
 ## How to contribute
 
-como contribuir
+Pleas fork this repsotioruaerajsdfjsaf
 
 ### Copyright
 
