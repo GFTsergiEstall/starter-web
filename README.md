@@ -18,3 +18,7 @@ prueba prueab
 ## How to contribute
 
 como contribuir
+
+### Copyright
+
+2014 asdjasd
